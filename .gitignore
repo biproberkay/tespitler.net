@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjeTespitler
+/src/Tespitler.Api/bin
+/src/Tespitler.Api/obj
+/src/Tespitler.Api/Properties/serviceDependencies.local.json.user
+/src/Tespitler.Api/Tespitler.Api.csproj.user
